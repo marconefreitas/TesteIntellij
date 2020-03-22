@@ -1,3 +1,5 @@
+package entities;
+
 public class Curso {
     private String nome;
     private int alunos;

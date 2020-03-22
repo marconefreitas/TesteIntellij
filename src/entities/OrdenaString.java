@@ -1,3 +1,7 @@
+package entities;
+
+import entities.Curso;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
